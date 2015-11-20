@@ -1,0 +1,79 @@
+.social-net-btn {
+	margin: 0px 5px 0px 5px;
+	border-color: black;
+	border-width: 2px;
+	border-radius: 6px;
+	background: lightgray;
+	text-shadow: 1px 1px black;
+}
+
+.navbar {
+	margin-bottom: 5px;
+}
+
+.social-net-btn:hover {
+	background: #1F1F1F;
+	border-color: black;
+	color: white;
+}
+
+#home-section {
+	background-image: url(../img/dreams.jpg);
+	height: 700px;
+	background-size: 100%;
+	background-attachment: fixed;
+	padding-top: 150px;
+}
+
+#home-section h2 {
+	font-family: "Constantia", serif;
+	font-size: 65px;
+	color: #1B221B;
+	text-shadow: 0px 0px 2px white;
+}
+
+#home-section p {
+	margin-top: 20px;
+	font-family: "Monotype Corsiva", cursive;
+	color: #1B331B;
+	text-shadow: 0px 0px 5px white;
+	font-size: 30px;
+}
+
+#home-section hr {
+	margin-bottom: 70px;
+}
+
+#about-section {
+	background-image: url(../img/studio.jpg);
+	height: 700px;
+	background-size: 100%;
+	background-attachment: fixed;
+	color: white;
+}
+
+#portfolio-section {
+	background: orange;
+}
+
+#contact-section {
+	background: #1B1B1B;
+	height: 350px;
+}
+
+#img1 {
+	border-radius: 50%;
+	width: 80%;
+	margin: 30px 0px 30px 0px;
+}
+
+#contact-section button {
+	margin-bottom: 15px;
+}
+
+#contact-section h2 {
+	padding-left: 50px;
+	color: white;
+	text-decoration: bold;
+	font-family: sans-serif;
+}
